@@ -1,4 +1,4 @@
-##-----------------------ADMIN>INFO---------------------------##
+##-----------------------ADMIN>IN-------------------------##
 # ENCRYPTION BY :U7P4L 1N
 # VERSION : 1.0.2
 # GITHUB : https://github.com/U7P4L-IN
